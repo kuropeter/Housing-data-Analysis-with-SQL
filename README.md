@@ -6,15 +6,15 @@ This repository contains code and data for analyzing sales data. The dataset inc
 
 The dataset used for this analysis contains the following columns:
 
-- longitude: Represents the longitude coordinate of a specific area.
-- latitude: Represents the latitude coordinate of a specific area.
-- housing_median_age: Refers to the median age of houses in a specific area.
-- total_rooms: Represents the total number of rooms in a specific area.
-- total_bedrooms: Indicates the total number of bedrooms in a specific area.
-- population: Represents the total population in a specific area.
-- households: Refers to the number of households in a specific area.
-- median_house_value: Represents the median value of houses in a specific area.
-- ocean_proximity: Indicates the proximity of the housing to the ocean.
+- **longitude**: Represents the longitude coordinate of a specific area.
+- **latitude**: Represents the latitude coordinate of a specific area.
+- **housing_median_age**: Refers to the median age of houses in a specific area.
+- **total_rooms**: Represents the total number of rooms in a specific area.
+- **total_bedrooms**: Indicates the total number of bedrooms in a specific area.
+- **population**: Represents the total population in a specific area.
+- **households**: Refers to the number of households in a specific area.
+- **median_house_value**: Represents the median value of houses in a specific area.
+- **ocean_proximity**: Indicates the proximity of the housing to the ocean.
 
 ## Questions to Explore
 
