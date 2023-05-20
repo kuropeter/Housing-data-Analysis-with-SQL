@@ -38,28 +38,15 @@ To gain insights from the dataset, the following questions will be explored:
 
 ## Getting Started
 
-To run the analysis on the sales data, follow these steps:
-
-1. Clone this repository: `git clone https://github.com/your-username/sales-data-analysis.git`
-2. Install the required dependencies by running `pip install -r requirements.txt`.
-3. Run the analysis script `analyze_sales_data.py`.
-4. The script will generate visualizations and provide insights based on the questions explored.
-
-Feel free to modify the analysis script to further investigate the dataset or tweak the visualizations to suit your needs.
-
 ## Results
 
-The results of the analysis, including visualizations and insights, can be found in the `results` folder. Each question explored will have a corresponding result file containing the findings.
+The results of the analysis, including code and insights, can be found in the houding_data_analysis_queries in this repository. Each question explored will have a code and insight under it.
 
 ## Contributing
 
 Contributions to this project are welcome. If you have any suggestions, ideas, or improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code and data for your own purposes.
-
 ## Acknowledgments
 
-- The dataset used for this analysis was sourced from [source-link].
-- Special thanks to [contributors' names] for their valuable contributions to this project.
+- The dataset used for this analysis was sourced from <a href="https://raw.githubusercontent.com/ageron/handson-ml2/master/datasets/housing/housing.csv" target="_blank">Here</a>.
+
