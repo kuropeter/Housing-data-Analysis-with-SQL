@@ -40,7 +40,7 @@ To gain insights from the dataset, the following questions will be explored:
 
 ## Results
 
-The results of the analysis, including code and insights, can be found in the houding_data_analysis_queries in this repository. Each question explored will have a code and insight under it.
+The results of the analysis, including code and insights, can be found in the `houding_data_analysis_queries.sql` in this repository. Each question explored will have a code and insight under it.
 
 ## Contributing
 
