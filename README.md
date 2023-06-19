@@ -1,6 +1,6 @@
 # Housing Data Analysis
 
-This repository contains code and data for analyzing sales data. The dataset includes information on various features such as ocean proximity, median house value, households, population, total bedrooms, total rooms, housing median age, latitude, and longitude. The purpose of this project is to explore the relationships and patterns within the dataset to gain insights.
+This repository contains code and data for analyzing housing data. The dataset includes information on various features such as ocean proximity, median house value, households, population, total bedrooms, total rooms, housing median age, latitude, and longitude. The purpose of this project is to explore the relationships and patterns within the dataset to gain insights.
 
 ## Dataset
 
